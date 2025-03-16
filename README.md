@@ -36,7 +36,7 @@ O script `provisionar_servidor_web.sh` cria a seguinte estrutura de diretórios:
 
 1. Clone o repositório (se aplicável):
    ```bash
-   git clone https://github.com/seu-usuario/linux-projeto2-iac.git
+   git clone https://github.com/CaioQuerino/linux-projeto2-iac.git
    ```
 
 2. Navegue até o diretório do projeto:
