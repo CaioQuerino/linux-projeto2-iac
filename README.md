@@ -8,7 +8,7 @@ O projeto contém dois scripts principais:
 
 1. **`provisionar_servidor_web.sh`**:
    - Atualiza o sistema.
-   - Instala o Apache2 e o Unzip.
+   - Instala o Apache2, Unzip, Node e npm.
    - Baixa uma aplicação web de um repositório GitHub.
    - Copia os arquivos da aplicação para o diretório padrão do Apache.
 
